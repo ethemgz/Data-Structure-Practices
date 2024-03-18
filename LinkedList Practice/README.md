@@ -1,0 +1,1 @@
+The task involves simulating the loading and unloading of a train with wagons. Each wagon has a capacity for different materials, and materials are loaded onto pallets within the wagons based on priority. The program should support loading and unloading operations for various materials, manage the train's cargo efficiently, and dynamically adjust the number of wagons as needed.
